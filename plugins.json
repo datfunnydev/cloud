@@ -17,14 +17,14 @@
         ],
         "version": 1,
         "internalName": "HHPandaProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/HHPandaProvider.cs3",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/builds/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 12799,
+        "fileSize": 12888,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -38,7 +38,7 @@
         ],
         "version": 1,
         "internalName": "MotchillProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/MotchillProvider.cs3",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/builds/MotchillProvider.cs3",
         "name": "MotchillProvider"
     },
     {
@@ -59,7 +59,7 @@
         ],
         "version": 1,
         "internalName": "NguonCProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/NguonCProvider.cs3",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/builds/NguonCProvider.cs3",
         "name": "NguonCProvider"
     },
     {
@@ -80,7 +80,7 @@
         ],
         "version": 1,
         "internalName": "PhimLongTiengProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/PhimLongTiengProvider.cs3",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/builds/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
     }
 ]
