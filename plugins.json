@@ -3,6 +3,69 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 11361,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "AnimeHayProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/AnimeHayProvider.cs3",
+        "name": "AnimeHayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 13164,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HHPandaProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/HHPandaProvider.cs3",
+        "name": "HHPandaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 15247,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "KKPhimProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/KKPhimProvider.cs3",
+        "name": "KKPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
         "fileSize": 13200,
         "status": 1,
         "language": "vi",
@@ -24,7 +87,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14773,
+        "fileSize": 15241,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -40,6 +103,27 @@
         "internalName": "NguonCProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 15074,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "OPhimProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/OPhimProvider.cs3",
+        "name": "OPhimProvider"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
@@ -61,6 +145,27 @@
         "internalName": "PhimLongTiengProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 15054,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PhimmoichillProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/PhimmoichillProvider.cs3",
+        "name": "PhimmoichillProvider"
     },
     {
         "iconUrl": "https://vlxx.mobi/favicon.ico&sz=%size%",
