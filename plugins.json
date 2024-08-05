@@ -13,15 +13,15 @@
             "Anime"
         ],
         "version": 1,
-        "internalName": "AnimeHayProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/AnimeHayProvider.cs3",
-        "name": "AnimeHayProvider"
+        "internalName": "AnimeHay",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/AnimeHay.cs3",
+        "name": "AnimeHay"
     },
     {
         "iconUrl": "https://hhpanda.tube/static/apple-touch-icon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 13164,
+        "fileSize": 13158,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -31,15 +31,15 @@
             "Anime"
         ],
         "version": 1,
-        "internalName": "HHPandaProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/HHPandaProvider.cs3",
-        "name": "HHPandaProvider"
+        "internalName": "HHPanda",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/HHPanda.cs3",
+        "name": "HHPanda"
     },
     {
         "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15247,
+        "fileSize": 15257,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -52,15 +52,15 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "KKPhimProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/KKPhimProvider.cs3",
-        "name": "KKPhimProvider"
+        "internalName": "KKPhim",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/KKPhim.cs3",
+        "name": "KKPhim"
     },
     {
         "iconUrl": "https://motchilltv.us/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 13200,
+        "fileSize": 13190,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -73,15 +73,15 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "MotchillProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/MotchillProvider.cs3",
-        "name": "MotchillProvider"
+        "internalName": "Motchill",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/Motchill.cs3",
+        "name": "Motchill"
     },
     {
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14779,
+        "fileSize": 14762,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -94,15 +94,15 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "NguonCProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/NguonCProvider.cs3",
-        "name": "NguonCProvider"
+        "internalName": "NguonC",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/NguonC.cs3",
+        "name": "NguonC"
     },
     {
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15074,
+        "fileSize": 15071,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -115,15 +115,15 @@
             "Movie"
         ],
         "version": 2,
-        "internalName": "OPhimProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/OPhimProvider.cs3",
-        "name": "OPhimProvider"
+        "internalName": "OPhim",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/OPhim.cs3",
+        "name": "OPhim"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 11565,
+        "fileSize": 11556,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -136,15 +136,15 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "PhimLongTiengProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/PhimLongTiengProvider.cs3",
-        "name": "PhimLongTiengProvider"
+        "internalName": "PhimLongTieng",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/PhimLongTieng.cs3",
+        "name": "PhimLongTieng"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15054,
+        "fileSize": 15048,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -157,15 +157,15 @@
             "Movie"
         ],
         "version": 1,
-        "internalName": "PhimmoichillProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/PhimmoichillProvider.cs3",
-        "name": "PhimmoichillProvider"
+        "internalName": "Phimmoichill",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/Phimmoichill.cs3",
+        "name": "Phimmoichill"
     },
     {
-        "iconUrl": "https://vlxx.mobi/favicon.ico",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.mobi&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 11125,
+        "fileSize": 11123,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -175,8 +175,8 @@
             "NSFW"
         ],
         "version": 1,
-        "internalName": "VlxxProvider",
-        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/VlxxProvider.cs3",
-        "name": "VlxxProvider"
+        "internalName": "Vlxx",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/Vlxx.cs3",
+        "name": "Vlxx"
     }
 ]
