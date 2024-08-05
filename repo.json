@@ -3,6 +3,6 @@
     "description": "Vietnamese Extension Beta",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/datfunnydev/test/builds/plugins.json"
+      "https://raw.githubusercontent.com/datfunnydev/cloud/main/plugins.json"
     ]
 }
