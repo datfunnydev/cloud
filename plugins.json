@@ -10,10 +10,7 @@
             "anhdadendaden"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "Anime"
         ],
         "version": 1,
         "internalName": "AnimeHayProvider",
@@ -31,10 +28,7 @@
             "anhdadendaden"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "Anime"
         ],
         "version": 1,
         "internalName": "HHPandaProvider",
@@ -168,7 +162,7 @@
         "name": "PhimmoichillProvider"
     },
     {
-        "iconUrl": "https://vlxx.mobi/favicon.ico&sz=%size%",
+        "iconUrl": "https://vlxx.mobi/favicon.ico",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
         "fileSize": 11061,
@@ -178,10 +172,7 @@
             "anhdadendaden"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
+            "NSFW"
         ],
         "version": 1,
         "internalName": "VlxxProvider",
