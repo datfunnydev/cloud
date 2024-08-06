@@ -99,7 +99,7 @@
         "name": "NguonC"
     },
     {
-        "iconUrl": "https://ophim16.cc/icon_ophim.png",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ophim16.cc&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
         "fileSize": 15071,
@@ -120,11 +120,11 @@
         "name": "OPhim"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
         "fileSize": 11556,
-        "status": 1,
+        "status": 3,
         "language": "vi",
         "authors": [
             "anhdadendaden"
