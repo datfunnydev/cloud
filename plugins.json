@@ -123,8 +123,8 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 11563,
-        "status": 1,
+        "fileSize": 11733,
+        "status": 0,
         "language": "vi",
         "authors": [
             "anhdadendaden"
@@ -183,7 +183,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 13111,
+        "fileSize": 13844,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -195,7 +195,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "SubnhanhProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/SubnhanhProvider.cs3",
         "name": "SubnhanhProvider"
