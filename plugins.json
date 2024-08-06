@@ -72,7 +72,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "MotchillProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/MotchillProvider.cs3",
         "name": "MotchillProvider"
@@ -123,7 +123,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 11565,
+        "fileSize": 11454,
         "status": 3,
         "language": "vi",
         "authors": [
