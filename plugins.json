@@ -21,7 +21,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 13164,
+        "fileSize": 13762,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -30,7 +30,7 @@
         "tvTypes": [
             "Anime"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "HHPandaProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
@@ -183,7 +183,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 12433,
+        "fileSize": 12567,
         "status": 1,
         "language": "vi",
         "authors": [
