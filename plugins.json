@@ -39,7 +39,7 @@
         "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15247,
+        "fileSize": 15165,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -51,7 +51,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "KKPhimProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/KKPhimProvider.cs3",
         "name": "KKPhimProvider"
