@@ -162,6 +162,27 @@
         "name": "PhimmoichillProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=subnhanh.li.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 14919,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SubnhanhProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/SubnhanhProvider.cs3",
+        "name": "SubnhanhProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.mobi&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
