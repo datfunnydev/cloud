@@ -93,7 +93,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "NguonCProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/NguonCProvider.cs3",
         "name": "NguonCProvider"
@@ -102,7 +102,7 @@
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15074,
+        "fileSize": 15127,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -114,7 +114,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 2,
+        "version": 3,
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
