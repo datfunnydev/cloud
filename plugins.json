@@ -81,7 +81,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14909,
+        "fileSize": 14889,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -123,8 +123,8 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14552,
-        "status": 1,
+        "fileSize": 11733,
+        "status": 0,
         "language": "vi",
         "authors": [
             "anhdadendaden"
