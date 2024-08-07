@@ -81,7 +81,11 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
+<<<<<<< HEAD
         "fileSize": 14909,
+=======
+        "fileSize": 14889,
+>>>>>>> 099487da49029cf64e4b5d62d32060fecdca50b3
         "status": 1,
         "language": "vi",
         "authors": [
@@ -103,6 +107,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
         "fileSize": 15156,
+<<<<<<< HEAD
         "status": 1,
         "language": "vi",
         "authors": [
@@ -124,7 +129,30 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
         "fileSize": 13951,
+=======
+>>>>>>> 099487da49029cf64e4b5d62d32060fecdca50b3
         "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "OPhimProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/OPhimProvider.cs3",
+        "name": "OPhimProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 11733,
+        "status": 0,
         "language": "vi",
         "authors": [
             "anhdadendaden"
