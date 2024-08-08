@@ -18,6 +18,27 @@
         "name": "AnimeHayProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 13262,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "BluphimProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/BluphimProvider.cs3",
+        "name": "BluphimProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
@@ -39,7 +60,7 @@
         "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15165,
+        "fileSize": 14995,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -81,7 +102,7 @@
         "iconUrl": "https://phim.nguonc.com/public/images/Logo/tv.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14909,
+        "fileSize": 14800,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -102,7 +123,7 @@
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15156,
+        "fileSize": 15039,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -123,8 +144,8 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14552,
-        "status": 1,
+        "fileSize": 14640,
+        "status": 0,
         "language": "vi",
         "authors": [
             "anhdadendaden"
@@ -204,7 +225,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.mobi&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 9938,
+        "fileSize": 9931,
         "status": 1,
         "language": "vi",
         "authors": [
