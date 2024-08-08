@@ -135,7 +135,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
@@ -144,7 +144,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15061,
+        "fileSize": 15064,
         "status": 1,
         "language": "vi",
         "authors": [
