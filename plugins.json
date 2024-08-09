@@ -78,6 +78,24 @@
         "name": "HotphimProvider"
     },
     {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=vlxx.mobi&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 9939,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "JavHDProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/JavHDProvider.cs3",
+        "name": "JavHDProvider"
+    },
+    {
         "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
