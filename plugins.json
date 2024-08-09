@@ -21,7 +21,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=bluphim.art&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15751,
+        "fileSize": 15616,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -81,8 +81,8 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 13463,
-        "status": 1,
+        "fileSize": 13629,
+        "status": 3,
         "language": "vi",
         "authors": [
             "anhdadendaden"
@@ -123,7 +123,7 @@
         "iconUrl": "https://ophim16.cc/icon_ophim.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15045,
+        "fileSize": 15018,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -135,7 +135,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 3,
+        "version": 4,
         "internalName": "OPhimProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/OPhimProvider.cs3",
         "name": "OPhimProvider"
@@ -144,8 +144,8 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14640,
-        "status": 0,
+        "fileSize": 15051,
+        "status": 1,
         "language": "vi",
         "authors": [
             "anhdadendaden"
