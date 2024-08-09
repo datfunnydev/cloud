@@ -42,7 +42,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=hhpanda.tube&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 13290,
+        "fileSize": 13386,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -55,6 +55,27 @@
         "internalName": "HHPandaProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/HHPandaProvider.cs3",
         "name": "HHPandaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hotphimvn.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/datfunnydev/cloud",
+        "fileSize": 13961,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "anhdadendaden"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HotphimProvider",
+        "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/HotphimProvider.cs3",
+        "name": "HotphimProvider"
     },
     {
         "iconUrl": "https://kkphim.vip/template/kkphim/static/img/favicon.png",
@@ -81,8 +102,8 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=motchilltv.us&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 13947,
-        "status": 3,
+        "fileSize": 13885,
+        "status": 0,
         "language": "vi",
         "authors": [
             "anhdadendaden"
@@ -144,7 +165,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14907,
+        "fileSize": 14901,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -165,7 +186,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichillk.net&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 15054,
+        "fileSize": 15060,
         "status": 1,
         "language": "vi",
         "authors": [
