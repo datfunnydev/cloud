@@ -165,7 +165,7 @@
         "iconUrl": "https://www.google.com/s2/favicons?domain=phimlongtieng.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/datfunnydev/cloud",
-        "fileSize": 14901,
+        "fileSize": 14905,
         "status": 1,
         "language": "vi",
         "authors": [
@@ -177,7 +177,7 @@
             "TvSeries",
             "Movie"
         ],
-        "version": 1,
+        "version": 2,
         "internalName": "PhimLongTiengProvider",
         "url": "https://raw.githubusercontent.com/datfunnydev/cloud/main/PhimLongTiengProvider.cs3",
         "name": "PhimLongTiengProvider"
